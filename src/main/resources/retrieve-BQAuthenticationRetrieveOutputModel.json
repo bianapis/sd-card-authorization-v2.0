@@ -1,0 +1,31 @@
+{
+  "authenticationInstanceAnalysis" : {
+    "authenticationInstanceAnalysisReportType" : "authenticationInstanceAnalysisReportType",
+    "authenticationInstanceAnalysisReport" : {},
+    "authenticationInstanceAnalysisParameters" : "authenticationInstanceAnalysisParameters",
+    "authenticationInstanceAnalysisRecord" : {}
+  },
+  "cRCreditChargeCardAuthorizationAssessmentInstanceRecord" : {
+    "cardTransactionRecord" : {
+      "cardHolderReference" : "783587"
+    }
+  },
+  "authenticationRetrieveActionTaskReference" : "CCCAARATR756488",
+  "authenticationInstanceRecord" : {
+    "cardTransactionProductInstanceReference" : "741114",
+    "authenticationCheckResult" : "authenticationCheckResult",
+    "authenticationSecretQuestionValue" : "authenticationSecretQuestionValue",
+    "authenticationSecretQuestionTemplate" : "authenticationSecretQuestionTemplate",
+    "authenticationSecretQuestionReference" : "734463",
+    "cardHolderAccountPassword" : "cardHolderAccountPassword",
+    "issuedDevicePIN" : "issuedDevicePIN"
+  },
+  "authenticationRetrieveActionTaskRecord" : {},
+  "authenticationRetrieveActionResponse" : "authenticationRetrieveActionResponse",
+  "authenticationInstanceReport" : {
+    "authenticationInstanceReportParameters" : "authenticationInstanceReportParameters",
+    "authenticationInstanceReportType" : "authenticationInstanceReportType",
+    "authenticationInstanceReportRecord" : {},
+    "authenticationInstanceReport" : {}
+  }
+}

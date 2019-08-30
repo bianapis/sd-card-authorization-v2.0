@@ -1,0 +1,14 @@
+{
+  "deviceCheckInstanceRecord" : {
+    "issuedDeviceCryptogram" : "issuedDeviceCryptogram",
+    "issuedDeviceValidThrough" : "issuedDeviceValidThrough",
+    "issuedDeviceCheckResult" : "issuedDeviceCheckResult",
+    "issuedDeviceSecurityCode" : "issuedDeviceSecurityCode",
+    "issuedDeviceCheckDigit" : "issuedDeviceCheckDigit",
+    "issuedDeviceCVV" : "issuedDeviceCVV",
+    "issuedDeviceBIN" : "issuedDeviceBIN"
+  },
+  "deviceCheckUpdateActionTaskReference" : "DCUATR777801",
+  "updateResponseRecord" : {},
+  "deviceCheckUpdateActionTaskRecord" : {}
+}

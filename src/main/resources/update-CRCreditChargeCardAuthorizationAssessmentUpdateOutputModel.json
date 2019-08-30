@@ -1,0 +1,29 @@
+{
+  "cRCreditChargeCardAuthorizationAssessmentInstanceRecord" : {
+    "participantAcquirerBankReference" : "773952",
+    "participantIssuerBankReference" : "786232",
+    "cardTransactionRecord" : {
+      "cardTransactionProductInstanceReference" : "750082",
+      "cardTransactionMerchantReference" : "774154",
+      "cardTransactionInterchargeFee" : "USD 250",
+      "cardTransactionIssuingBankReference" : "702817",
+      "cardTransactionType" : "cardTransactionType",
+      "cardTransactionMerchantAcquiringBankReference" : "757424",
+      "cardTransactionLocationReference" : "724217",
+      "cardTransactionCurrency" : "USD",
+      "cardTransactionIssuedDeviceReference" : "786841",
+      "cardTransactionAmountType" : "cardTransactionAmountType",
+      "cardTransactionFXConversionCharge" : "USD 250",
+      "cardTransactionNetworkReference" : "722122",
+      "cardTransactionProductServiceReference" : "775375",
+      "cardTransactionDateTime" : "09-22-2018",
+      "cardTransactionAmount" : "USD 250",
+      "cardTransactionAuthorizationRecord" : {},
+      "cardHolderReference" : "751963"
+    },
+    "networkReference" : "791107"
+  },
+  "updateResponseRecord" : {},
+  "creditChargeCardAuthorizationAssessmentUpdateActionTaskRecord" : {},
+  "creditChargeCardAuthorizationAssessmentUpdateActionTaskReference" : "CCCAAUATR782784"
+}

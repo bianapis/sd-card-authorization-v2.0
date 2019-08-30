@@ -1,0 +1,39 @@
+{
+  "cRCreditChargeCardAuthorizationAssessmentInstanceRecord" : {
+    "participantAcquirerBankReference" : "740661",
+    "participantIssuerBankReference" : "782888",
+    "cardTransactionRecord" : {
+      "cardTransactionProductInstanceReference" : "741554",
+      "cardTransactionMerchantReference" : "793591",
+      "cardTransactionInterchargeFee" : "USD 250",
+      "cardTransactionIssuingBankReference" : "715991",
+      "cardTransactionType" : "cardTransactionType",
+      "cardTransactionMerchantAcquiringBankReference" : "722061",
+      "cardTransactionLocationReference" : "779861",
+      "cardTransactionCurrency" : "USD",
+      "cardTransactionIssuedDeviceReference" : "743158",
+      "cardTransactionAmountType" : "cardTransactionAmountType",
+      "cardTransactionFXConversionCharge" : "USD 250",
+      "cardTransactionNetworkReference" : "763624",
+      "cardTransactionProductServiceReference" : "745493",
+      "cardTransactionDateTime" : "09-22-2018",
+      "cardTransactionAmount" : "USD 250",
+      "cardTransactionAuthorizationRecord" : {},
+      "cardHolderReference" : "709034"
+    },
+    "networkReference" : "750258"
+  },
+  "creditChargeCardAuthorizationAssessmentInstanceAnalysis" : {
+    "creditChargeCardAuthorizationAssessmentInstanceAnalysisData" : "creditChargeCardAuthorizationAssessmentInstanceAnalysisData",
+    "creditChargeCardAuthorizationAssessmentInstanceAnalysisReportType" : "creditChargeCardAuthorizationAssessmentInstanceAnalysisReportType",
+    "creditChargeCardAuthorizationAssessmentInstanceAnalysisReport" : {}
+  },
+  "creditChargeCardAuthorizationAssessmentInstanceReportRecord" : {
+    "creditChargeCardAuthorizationAssessmentInstanceReportType" : "creditChargeCardAuthorizationAssessmentInstanceReportType",
+    "creditChargeCardAuthorizationAssessmentInstanceReportData" : "creditChargeCardAuthorizationAssessmentInstanceReportData",
+    "creditChargeCardAuthorizationAssessmentInstanceReport" : {}
+  },
+  "creditChargeCardAuthorizationAssessmentRetrieveActionResponse" : "creditChargeCardAuthorizationAssessmentRetrieveActionResponse",
+  "creditChargeCardAuthorizationAssessmentRetrieveActionTaskReference" : "CCCAARATR795717",
+  "creditChargeCardAuthorizationAssessmentRetrieveActionTaskRecord" : {}
+}

@@ -1,0 +1,14 @@
+{
+  "authenticationInstanceRecord" : {
+    "cardTransactionProductInstanceReference" : "786709",
+    "authenticationCheckResult" : "authenticationCheckResult",
+    "authenticationSecretQuestionValue" : "authenticationSecretQuestionValue",
+    "authenticationSecretQuestionTemplate" : "authenticationSecretQuestionTemplate",
+    "authenticationSecretQuestionReference" : "707284",
+    "cardHolderAccountPassword" : "cardHolderAccountPassword",
+    "issuedDevicePIN" : "issuedDevicePIN"
+  },
+  "authenticationUpdateActionTaskReference" : "CCCAAUATR730571",
+  "authenticationUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {}
+}

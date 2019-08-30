@@ -1,0 +1,8 @@
+{
+  "grantRequestResponseRecord" : {
+    "grantPermissionDetails" : "grantPermissionDetails"
+  },
+  "creditChargeCardAuthorizationAssessmentGrantActionTaskReference" : "CCCAAGATR737245",
+  "creditChargeCardAuthorizationAssessmentGrantActionTaskRecord" : {},
+  "grantRequestRecordReference" : "GRRR789230"
+}

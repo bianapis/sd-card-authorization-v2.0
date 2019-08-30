@@ -1,0 +1,12 @@
+{
+  "executeRecordReference" : "ERR703927",
+  "cRCreditChargeCardAuthorizationAssessmentInstanceRecord" : {
+    "cardTransactionRecord" : {
+      "cardTransactionDateTime" : "09-22-2018",
+      "cardTransactionAuthorizationRecord" : {}
+    }
+  },
+  "creditChargeCardAuthorizationAssessmentExecuteActionTaskRecord" : {},
+  "executeResponseRecord" : {},
+  "creditChargeCardAuthorizationAssessmentExecuteActionTaskReference" : "CCCAAEATR709059"
+}

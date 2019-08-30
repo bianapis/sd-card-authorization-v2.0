@@ -1,0 +1,44 @@
+{
+  "cRCreditChargeCardAuthorizationAssessmentInstanceRecord" : {
+    "participantAcquirerBankReference" : "716595",
+    "participantIssuerBankReference" : "724157",
+    "cardTransactionRecord" : {
+      "cardTransactionProductInstanceReference" : "774210",
+      "cardTransactionMerchantReference" : "750427",
+      "cardTransactionInterchargeFee" : "USD 250",
+      "cardTransactionIssuingBankReference" : "736988",
+      "cardTransactionType" : "cardTransactionType",
+      "cardTransactionMerchantAcquiringBankReference" : "707489",
+      "cardTransactionLocationReference" : "725952",
+      "cardTransactionCurrency" : "USD",
+      "cardTransactionIssuedDeviceReference" : "753387",
+      "cardTransactionAmountType" : "cardTransactionAmountType",
+      "cardTransactionFXConversionCharge" : "USD 250",
+      "cardTransactionNetworkReference" : "777493",
+      "cardTransactionProductServiceReference" : "712359",
+      "cardTransactionDateTime" : "09-22-2018",
+      "cardTransactionAmount" : "USD 250",
+      "cardTransactionAuthorizationRecord" : {},
+      "cardHolderReference" : "782066"
+    },
+    "networkReference" : "736994"
+  },
+  "fraudCheckInstanceReport" : {
+    "fraudCheckInstanceReportParameters" : "fraudCheckInstanceReportParameters",
+    "fraudCheckInstanceReport" : {},
+    "fraudCheckInstanceReportRecord" : {},
+    "fraudCheckInstanceReportType" : "fraudCheckInstanceReportType"
+  },
+  "fraudCheckInstanceRecord" : {
+    "fraudCheckResult" : "fraudCheckResult"
+  },
+  "fraudCheckRetrieveActionResponse" : "fraudCheckRetrieveActionResponse",
+  "fraudCheckRetrieveActionTaskReference" : "FCRATR756595",
+  "fraudCheckRetrieveActionTaskRecord" : {},
+  "fraudCheckInstanceAnalysis" : {
+    "fraudCheckInstanceAnalysisReportType" : "fraudCheckInstanceAnalysisReportType",
+    "fraudCheckInstanceAnalysisParameters" : "fraudCheckInstanceAnalysisParameters",
+    "fraudCheckInstanceAnalysisRecord" : {},
+    "fraudCheckInstanceAnalysisReport" : {}
+  }
+}

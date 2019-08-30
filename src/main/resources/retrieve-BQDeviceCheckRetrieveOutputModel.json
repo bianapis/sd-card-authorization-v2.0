@@ -1,0 +1,50 @@
+{
+  "deviceCheckRetrieveActionTaskReference" : "DCRATR746171",
+  "cRCreditChargeCardAuthorizationAssessmentInstanceRecord" : {
+    "participantAcquirerBankReference" : "715552",
+    "participantIssuerBankReference" : "756743",
+    "cardTransactionRecord" : {
+      "cardTransactionProductInstanceReference" : "776302",
+      "cardTransactionMerchantReference" : "719427",
+      "cardTransactionInterchargeFee" : "USD 250",
+      "cardTransactionIssuingBankReference" : "728617",
+      "cardTransactionType" : "cardTransactionType",
+      "cardTransactionMerchantAcquiringBankReference" : "749257",
+      "cardTransactionLocationReference" : "765080",
+      "cardTransactionCurrency" : "USD",
+      "cardTransactionIssuedDeviceReference" : "757165",
+      "cardTransactionAmountType" : "cardTransactionAmountType",
+      "cardTransactionFXConversionCharge" : "USD 250",
+      "cardTransactionNetworkReference" : "727191",
+      "cardTransactionProductServiceReference" : "700310",
+      "cardTransactionDateTime" : "09-22-2018",
+      "cardTransactionAmount" : "USD 250",
+      "cardTransactionAuthorizationRecord" : {},
+      "cardHolderReference" : "771516"
+    },
+    "networkReference" : "719191"
+  },
+  "deviceCheckInstanceRecord" : {
+    "issuedDeviceCryptogram" : "issuedDeviceCryptogram",
+    "issuedDeviceValidThrough" : "issuedDeviceValidThrough",
+    "issuedDeviceCheckResult" : "issuedDeviceCheckResult",
+    "issuedDeviceSecurityCode" : "issuedDeviceSecurityCode",
+    "issuedDeviceCheckDigit" : "issuedDeviceCheckDigit",
+    "issuedDeviceCVV" : "issuedDeviceCVV",
+    "issuedDeviceBIN" : "issuedDeviceBIN"
+  },
+  "deviceCheckInstanceAnalysis" : {
+    "deviceCheckInstanceAnalysisReport" : {},
+    "deviceCheckInstanceAnalysisRecord" : {},
+    "deviceCheckInstanceAnalysisReportType" : "deviceCheckInstanceAnalysisReportType",
+    "deviceCheckInstanceAnalysisParameters" : "deviceCheckInstanceAnalysisParameters"
+  },
+  "deviceCheckRetrieveActionResponse" : "deviceCheckRetrieveActionResponse",
+  "deviceCheckRetrieveActionTaskRecord" : {},
+  "deviceCheckInstanceReport" : {
+    "deviceCheckInstanceReportParameters" : "deviceCheckInstanceReportParameters",
+    "deviceCheckInstanceReportRecord" : {},
+    "deviceCheckInstanceReport" : {},
+    "deviceCheckInstanceReportType" : "deviceCheckInstanceReportType"
+  }
+}

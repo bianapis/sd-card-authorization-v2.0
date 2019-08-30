@@ -1,0 +1,12 @@
+{
+  "cRCreditChargeCardAuthorizationAssessmentInstanceRecord" : {
+    "cardTransactionRecord" : {
+      "cardTransactionDateTime" : "09-22-2018",
+      "cardTransactionAuthorizationRecord" : {}
+    }
+  },
+  "creditChargeCardAuthorizationAssessmentEvaluateActionReference" : "CCCAAEAR760736",
+  "creditChargeCardAuthorizationAssessmentInstanceStatus" : "creditChargeCardAuthorizationAssessmentInstanceStatus",
+  "creditChargeCardAuthorizationAssessmentInstanceReference" : "CCCAAIR774671",
+  "creditChargeCardAuthorizationAssessmentEvaluateActionRecord" : {}
+}

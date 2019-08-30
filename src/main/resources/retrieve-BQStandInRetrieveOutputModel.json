@@ -1,0 +1,45 @@
+{
+  "standInInstanceReport" : {
+    "standInInstanceReportParameters" : "standInInstanceReportParameters",
+    "standInInstanceReport" : {},
+    "standInInstanceReportRecord" : {},
+    "standInInstanceReportType" : "standInInstanceReportType"
+  },
+  "cRCreditChargeCardAuthorizationAssessmentInstanceRecord" : {
+    "participantAcquirerBankReference" : "770752",
+    "participantIssuerBankReference" : "707141",
+    "cardTransactionRecord" : {
+      "cardTransactionProductInstanceReference" : "701041",
+      "cardTransactionMerchantReference" : "735795",
+      "cardTransactionInterchargeFee" : "USD 250",
+      "cardTransactionIssuingBankReference" : "799152",
+      "cardTransactionType" : "cardTransactionType",
+      "cardTransactionMerchantAcquiringBankReference" : "752848",
+      "cardTransactionLocationReference" : "703110",
+      "cardTransactionCurrency" : "USD",
+      "cardTransactionIssuedDeviceReference" : "735503",
+      "cardTransactionAmountType" : "cardTransactionAmountType",
+      "cardTransactionFXConversionCharge" : "USD 250",
+      "cardTransactionNetworkReference" : "789155",
+      "cardTransactionProductServiceReference" : "768378",
+      "cardTransactionDateTime" : "09-22-2018",
+      "cardTransactionAmount" : "USD 250",
+      "cardTransactionAuthorizationRecord" : {},
+      "cardHolderReference" : "732658"
+    },
+    "networkReference" : "796281"
+  },
+  "standInInstanceAnalysis" : {
+    "standInInstanceAnalysisRecord" : {},
+    "standInInstanceAnalysisReportType" : "standInInstanceAnalysisReportType",
+    "standInInstanceAnalysisParameters" : "standInInstanceAnalysisParameters",
+    "standInInstanceAnalysisReport" : {}
+  },
+  "standInRetrieveActionResponse" : "standInRetrieveActionResponse",
+  "standInRetrieveActionTaskReference" : "SIRATR733460",
+  "standInRetrieveActionTaskRecord" : {},
+  "standInInstanceRecord" : {
+    "negativeFileReference" : "742712",
+    "cardAccountStandInAuthorizationResult" : "cardAccountStandInAuthorizationResult"
+  }
+}

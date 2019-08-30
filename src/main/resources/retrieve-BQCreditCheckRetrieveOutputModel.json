@@ -1,0 +1,26 @@
+{
+  "cRCreditChargeCardAuthorizationAssessmentInstanceRecord" : {
+    "cardTransactionRecord" : {
+      "cardTransactionProductInstanceReference" : "746684",
+      "cardHolderReference" : "703361"
+    }
+  },
+  "creditCheckRetrieveActionTaskRecord" : {},
+  "creditCheckInstanceReport" : {
+    "creditCheckInstanceReportParameters" : "creditCheckInstanceReportParameters",
+    "creditCheckInstanceReportType" : "creditCheckInstanceReportType",
+    "creditCheckInstanceReport" : {},
+    "creditCheckInstanceReportRecord" : {}
+  },
+  "creditCheckRetrieveActionResponse" : "creditCheckRetrieveActionResponse",
+  "creditCheckInstanceAnalysis" : {
+    "creditCheckInstanceAnalysisRecord" : {},
+    "creditCheckInstanceAnalysisParameters" : "creditCheckInstanceAnalysisParameters",
+    "creditCheckInstanceAnalysisReportType" : "creditCheckInstanceAnalysisReportType",
+    "creditCheckInstanceAnalysisReport" : {}
+  },
+  "creditCheckInstanceRecord" : {
+    "cardAccountavailablebalancecheckresult" : "cardAccountavailablebalancecheckresult"
+  },
+  "creditCheckRetrieveActionTaskReference" : "CCRATR776345"
+}
