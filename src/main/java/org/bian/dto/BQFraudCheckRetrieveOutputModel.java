@@ -35,6 +35,7 @@ public class BQFraudCheckRetrieveOutputModel   {
    * @return cRCreditChargeCardAuthorizationAssessmentInstanceRecord
   **/
 
+  @JsonProperty("cRCreditChargeCardAuthorizationAssessmentInstanceRecord")
   public BQFraudCheckRetrieveOutputModelCRCreditChargeCardAuthorizationAssessmentInstanceRecord getCRCreditChargeCardAuthorizationAssessmentInstanceRecord() {
     return cRCreditChargeCardAuthorizationAssessmentInstanceRecord;
   }

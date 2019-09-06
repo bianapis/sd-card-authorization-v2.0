@@ -35,6 +35,7 @@ public class BQAuthenticationRetrieveOutputModel   {
    * @return cRCreditChargeCardAuthorizationAssessmentInstanceRecord
   **/
 
+  @JsonProperty("cRCreditChargeCardAuthorizationAssessmentInstanceRecord")
   public BQAuthenticationRetrieveOutputModelCRCreditChargeCardAuthorizationAssessmentInstanceRecord getCRCreditChargeCardAuthorizationAssessmentInstanceRecord() {
     return cRCreditChargeCardAuthorizationAssessmentInstanceRecord;
   }

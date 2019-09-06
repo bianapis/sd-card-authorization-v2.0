@@ -28,6 +28,7 @@ public class CRCreditChargeCardAuthorizationAssessmentExecuteOutputModel   {
    * @return cRCreditChargeCardAuthorizationAssessmentInstanceRecord
   **/
 
+  @JsonProperty("cRCreditChargeCardAuthorizationAssessmentInstanceRecord")
   public CRCreditChargeCardAuthorizationAssessmentEvaluateOutputModelCRCreditChargeCardAuthorizationAssessmentInstanceRecord getCRCreditChargeCardAuthorizationAssessmentInstanceRecord() {
     return cRCreditChargeCardAuthorizationAssessmentInstanceRecord;
   }
